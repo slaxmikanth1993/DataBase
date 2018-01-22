@@ -74,6 +74,13 @@
                                 <color key="backgroundColor" red="1" green="0.75289792375215447" blue="0.1276715736429993" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <state key="normal" title="Baji "/>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b6t-mh-Dv5">
+                                <rect key="frame" x="130" y="74" width="128" height="70"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <fontDescription key="fontDescription" name="AvenirNext-Bold" family="Avenir Next" pointSize="40"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" red="1" green="0.60487633594794754" blue="0.50065214081793585" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>

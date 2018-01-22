@@ -67,12 +67,20 @@
                     <view key="view" contentMode="scaleToFill" id="rOE-6m-6wG">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0V9-9W-hgb">
+                                <rect key="frame" x="101" y="259" width="195" height="52"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="backgroundColor" red="1" green="0.75289792375215447" blue="0.1276715736429993" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="Baji "/>
+                            </button>
+                        </subviews>
                         <color key="backgroundColor" red="1" green="0.60487633594794754" blue="0.50065214081793585" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="72F-yo-ErN" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2915" y="-92"/>
+            <point key="canvasLocation" x="2914.4000000000001" y="-92.203898050974516"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="lwh-ix-j7b">
